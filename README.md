@@ -8,7 +8,7 @@ Voilà  mon parcours :
 #
 :mortar_board: 2017-2021 : Peintre en bâtiment (CDI) : :construction_worker_man:
 #
-:mortar_board: 2021-2022 : Reconversion. Développeur Web : :computer:
+:seedling: 2021-2022 : Reconversion. Développeur Web : :man_technologist:
 
 
 
