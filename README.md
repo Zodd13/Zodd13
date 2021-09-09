@@ -1,4 +1,43 @@
-### Hi there 👋
+### Bonjour tout le monde et bienvenu sur mon profil, actuellement en pleine reconversion professionnel je suis en train d'apprendre à coder. J'essaierais au mieux de vous montrer cette évolution à travers mon profil. Alors à bientot ! 👋
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Zodd13/Zodd13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
