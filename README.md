@@ -1,6 +1,10 @@
 ### Bonjour tout le monde et bienvenu sur mon profil, actuellement en pleine reconversion professionnel je suis en train d'apprendre à coder. J'essaierais au mieux de vous montrer cette évolution à travers mon profil. Alors à bientot ! 👋
 
 
+<p align='center'><a href="https://twitter.com/Do_Do130"><img height="24" src="https://github.com/Zodd13/Zodd13/blob/main/icons8-twitter-48.png"></a>
+</p>
+
+
 
 
 
