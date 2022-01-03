@@ -19,7 +19,8 @@ Je vous laisse mon twitter si jamais vous voulez me suivre là-bas. A bientot ! 
 <p align='center'><a href="https://twitter.com/Do_Do130"><img height="24" src="https://github.com/Zodd13/Zodd13/blob/main/icons8-twitter-48.png"></a>
 </p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zodd13&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zodd13&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
