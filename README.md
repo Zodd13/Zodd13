@@ -1,4 +1,4 @@
-<p align='center'>Bonjour tout le monde et bienvenu sur mon profil, actuellement en pleine reconversion professionnel je suis en train d'apprendre à coder. J'essaierais au mieux de vous montrer cette évolution à travers mon profil. 
+<p align='justify'>Bonjour tout le monde et bienvenu sur mon profil, actuellement en pleine reconversion professionnel je suis en train d'apprendre à coder. J'essaierais au mieux de vous montrer cette évolution à travers mon profil. 
 
 Voilà  mon parcours :
 
@@ -16,7 +16,7 @@ Voilà  mon parcours :
 Je vous laisse mon twitter si jamais vous voulez me suivre là-bas. A bientot ! 👋
 
 
-<p align='center'><a href="https://twitter.com/Do_Do130"><img height="24" src="https://github.com/Zodd13/Zodd13/blob/main/icons8-twitter-48.png"></a>
+<p align='justify'><a href="https://twitter.com/Do_Do130"><img height="24" src="https://github.com/Zodd13/Zodd13/blob/main/icons8-twitter-48.png"></a>
 </p>
 
 <image align='center'>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zodd13&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
