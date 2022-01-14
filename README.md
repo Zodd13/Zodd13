@@ -29,8 +29,8 @@
 
 <a href = "https://www.linkedin.com/in/mounir-b-69b48b228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/cestzodd"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-</p>
+ <a href="mailto:berniam.pro@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail--v1.png"/></a>.
+  </p>
 
 
 
