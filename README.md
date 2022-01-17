@@ -24,7 +24,8 @@
 <image align='center'>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zodd13&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Contact:
+## You can contact me here :
+ 
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mounir-b-69b48b228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
