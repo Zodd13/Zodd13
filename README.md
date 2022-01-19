@@ -24,7 +24,7 @@
 <image align='center'>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zodd13&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## You can contact me here :
+## You can contact me here ;
  
 <p align="left">
 
