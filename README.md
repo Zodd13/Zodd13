@@ -11,7 +11,7 @@
 #
 :mortar_board: 2017-2021 : Peintre en bâtiment (CDI) :construction_worker_man:
 #
-:seedling: 2021-2022 : Reconversion pro. développeur Web en formation avec openclassroom. :man_technologist:
+:seedling: 2021-2022 : Reconversion pro. développeur Web en formation avec openclassroom (Fin de formation prévu pour le mois de mars 2022). :man_technologist:
 
 ## GitHub Stats 
 
