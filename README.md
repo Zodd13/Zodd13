@@ -2,7 +2,7 @@
 
 
 
-<h2>Hello, welcome to my profile. Actually learning web development ! </h2>
+<h2>Hello, welcome to my profile. Actually learning web development. </h2>
 <br>
 
 :mortar_board: 2014-2016 : Diplôme de peintre en lettres :art:
