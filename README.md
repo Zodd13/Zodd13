@@ -1,24 +1,17 @@
+<center>
 <img align='center'><a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="100px"/></a>
 
 
 
-<h2>Hello, welcome to my profile. Actually learning web development. </h2>
+<h3>Hello bienvenue sur mon profil 👋 </h3>
+
 <br>
 
-:mortar_board: 2014-2016 : Diplôme de peintre en lettres :art:
+ 2017-2021 : Peintre en bâtiment :construction_worker_man:
 #
-:mortar_board: 2016-2017 : Mention complémentaire plaquiste :construction_worker_man:
+:seedling: 2021-2022 : Formation développeur web (6 mois) :man_technologist: ✅
 #
-:mortar_board: 2017-2021 : Peintre en bâtiment (CDI) :construction_worker_man:
-#
-:seedling: 2021-2022 : Reconversion pro. développeur Web en formation avec openclassroom (Fin de formation prévu pour le mois de mars 2022). :man_technologist:
-#
-:seedling: 2022-2023 : Recherche d'une alternance Développeur web / web mobile avancé.
-
-## GitHub Stats 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zodd13&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</p>
-
+:seedling: 2022-2023 : Recherche d'une alternance Développeur web / web mobile avancé <b>rentrée septembre</b> ❎
 
 ## Current skills
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
@@ -34,16 +27,16 @@
 <image align='center'>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zodd13&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## You can contact me here ;
+## You can contact me here 
  
-<p align="left">
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/mounir-b-69b48b228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/itisreda"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
  <a href="mailto:berniam.pro@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail--v1.png"/></a>
   </p>
 
-
+ </center>
 
 
 
